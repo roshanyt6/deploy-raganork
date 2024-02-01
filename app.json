@@ -1,9 +1,9 @@
 {
-    "name": "kiran xer wabot",
+    "name": "bl roshan yt",
     "description": "WhatsApp public/user bot",
-    "logo": "https://i.imgur.com/4iAODFB.jpg",
+    "logo": "https://i.imgur.com/GHimyfQ.jpg",
     "keywords": ["WhatsApp"],
-    "repository": "https://github.com/Kiranxer/deploy-raganork",
+    "repository": "https://github.com/roshanyt6/deploy-raganork",
     "stack": "container",
     "env": {
         "HANDLERS": {
@@ -22,22 +22,22 @@
             "value":"false"
         },
         "READ_COMMAND": {
-            "description": "Bot will read all commands (blue tick). Can be also false",
+            "description": "Bot will read all commands♥️👀 (blue tick). Can be also false",
             "required": true,
             "value":"true"
         },
         "HEROKU_APP_NAME": {
             "description": "Exact name which you gave at the top",
             "required": true,
-            "value":"setvar cmd onnum wrk avilla myre 😹👨🏻‍🦯"
+            "value":"setvar cmd onnum wrk avilla 🌚👀"
         },
         "STICKER_DATA": {
-            "description": "Name of stickers created using bot. Can also split using ;",
+            "description": "Name of stickers👀 created using bot. Can also split using ;",
             "required": true,
             "value":"Raganork pack;Author name"
         },
         "CHATBOT": {
-            "description": "AI chatbot",
+            "description": "AI chatbot no use😂",
             "required": true,
             "value":"off"
         },
@@ -59,7 +59,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919539060020"
+            "value":"91xxxxxxxxx"
         },
         "BLOCK_CHAT": {
             "description": "Block bot in specific groups, enter jids here sepereated with commas",
@@ -74,7 +74,7 @@
         "ALLOWED": {
             "description": "Country codes allowed by antifake",
             "required": false,
-            "value":"91,48"
+            "value":"91"
         },
         "WARN": {
             "description": "Warn limit",
@@ -84,7 +84,7 @@
         "LANGUAGE": {
             "description": "Available languages: english,manglish,turkish",
             "required": false,
-            "value":"english"
+            "value":"english,malayalam"
         },
         "AUTO_READ_STATUS": {
             "description": "View status updates automatically",
